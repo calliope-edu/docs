@@ -1,0 +1,7 @@
+Pin 0 : Set++ bis max 4
+Pin 1 : Set-- bis max 0
+Pin 2 : Rec start; Rec stop; jeweils nur 1 mal
+Pin 3 : Rec play
+
+Max 10 Sounds per Set
+Die ersten beiden Felder auf der Seite der  SD-Karte nicht besetzt
