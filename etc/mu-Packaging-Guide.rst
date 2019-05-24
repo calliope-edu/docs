@@ -34,9 +34,12 @@ Setup virtual environment
 
   $ pip install virtualenv
   $ cd Desktop
-  $ virtualenv --python=/usr/bin/python3.6 mu-ENV
+  $ virtualenv --python=/usr/local/bin/python3.6 mu-ENV
   $ cd mu-ENV
   $ source bin/activate
+  
+Copy mu-master folder to ENV. Then:
+
   $ cd mu-master
 
 * Install python dependencies::
